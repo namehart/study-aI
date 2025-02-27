@@ -1,11 +1,11 @@
 必装：
 
-- [python](https://python.org)
+- [python3.11.2](https://python.org)
     - numpy
     - Matplotlib
     - panda
     - sk-learn
-    -
+    - 还有[其他](/requ)
 - [vs-code](https://code.visualstudio.com/)
     - python 插件
 
